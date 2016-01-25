@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>
+
+
+
+
+
+<e> <lg> <l pos="Adv">saada i.: иметь видение; tuoda i.: выразить</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">õlmmsa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">а (не) то</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">muđoi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">а как же</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiõttlõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">бегом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">uuʹrčpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">без</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">väjjaǥ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">бесконечно,навеки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">ââǥǥas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ближе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">âʹlddla</t> <t Contlex="ADV_" pos="Adv">âʹlddlab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ближе (где?)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">âʹlddlest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">близко</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ââlda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">бок о бок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">palddlõõžži</t> <t Contlex="ADV_" pos="Adv">räjjlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">более чем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâʹjjlaakkânj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">больше, более</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jäänab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">большей частью</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">jäänaš</t> <t Contlex="ADV_" pos="Adv">jäänmõssân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">быстро</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jåʹttlõnji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">быстро</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sõrgg</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">быстро, скоро</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">jåʹttlânji</t> <t Contlex="ADV_" pos="Adv">ǩirggânji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в беспорядке, как попало</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">seäkkad</t> <t Contlex="ADV_" pos="Adv">seäkklõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в году</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">eeʹjjest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в долг</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">lääinas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в дом</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в другом месте</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">jeeʹressââʹjest</t> <t Contlex="ADV_" pos="Adv">jeeʹresåʹrnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в общих чертах, в основном</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">timâʹmmet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в открытое море; из открытого моря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">aʹppjest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в позапрошлом году</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuneeʹjj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в праве</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõiggeest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в разные стороны, в другое место</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jeeʹresårra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в складках</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">snärkkad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в следующем году, год спустя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">toouʹni</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в среднем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kõskkmeärra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">в старину, в прежнее время</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">tuuʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вверх дном</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâʹespõõdi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вверх, наверх</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pââjas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вдали</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> <sem class="WORK">TRAVEL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вдвоем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuâhttast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вежливо, учтиво</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩeʹnnvubun</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">везде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">veeʹzz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">весело</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuärǥast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">весной</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩeâđđa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вечером</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jeäʹǩǩää</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вечно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ääiʹjalddrõʹsse</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">взад и вперед, туда и сюда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">oudsmååusat</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">видимо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kueʹsttemsââʹjest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">визави, лицом к лицу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">njuʹnnšeeʹli</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">внезапно, вдруг</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kruuʹta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вниз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">vuâlas</t> <t Contlex="ADV_" pos="Adv">vuâlårra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вниз по течению</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuâlasveeʹrd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">внизу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vueʹllen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">внутри</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">seʹst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">внутрь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">во всяком случае, по крайнен мере</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ama</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">во-первых</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõššân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вовнутрь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">возможный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">možt-i</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вокруг, кругом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">piirâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">восемь раз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">käʹhccešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вперед</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ooudooʹri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вперед, к</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ouʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">впереди, вперёд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ouddpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вперёд</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ooudâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вперёд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ooudårra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вперёд, перед</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ouddpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вправду</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuõđi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">всегда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">всегда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">всегда, все время</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">всего, в целом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pukveeʹzz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">всего, вместе, на всех, суммарно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">õhttsa</t> <t Contlex="ADV_" pos="Adv">õhttseʹžže</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вслух</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jiõnnsa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вставленный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luämmlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вчера</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">jåhtta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вчетвером</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">neelljas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">высоко</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">õllʼjeʹnnje</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">где</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">koʹst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">готовый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">valmmša</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">давно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">kuuʹǩǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">давным-давно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">äigga</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">далее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mäddlab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">далеко</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kookkas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">далеко</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> <sem class="WORK">TRAVEL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">далеко, вдали</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> <sem class="WORK">TRAVEL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дальше</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ooudâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дальше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">ouggla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дальше, подальше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ougglest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дальше/глубже назад</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puäššlab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дальше/глубже сзади</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puäššlubun</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">даром, бесплатно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">dääram</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дважды</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kueʹhttešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">двусторонний, обоюдный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kueiʹtpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">девать раз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">åʹhccešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">действительни</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuõđi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">днём</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">peivva</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">до конца, до цели</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">dååtlas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">довольно, вовсе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">eežža</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">довольно-таки</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miâlggâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">довольный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN"/> <sem class="SENSE"/> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miõlstes</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">долго</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">kuuʹǩǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дольше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuuʹǩǩab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">дома</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">FAMILY</sem> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">dååma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">домой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> <sem class="HUMAN">FAMILY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">domoi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">достаточно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">dovåʹlna</t> <t Contlex="ADV_" pos="Adv">nokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">друг на друга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâjjlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">друг перед другом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuâsttlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">единогласно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">õõutmiʹlle</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">еще</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">võl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ещё</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">võl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">за один раз, разом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">saraaz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">за, больше чем, дольше чем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâʹjjel</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">за, мимо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">rääi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">завтра</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">jâđđa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">задом, задом наперёд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">põõđlõs</t> <t Contlex="ADV_" pos="Adv">ruâpttad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">заканчиваться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puuttâmpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">закрытый (о глазах)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">måskkad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">закрытый, замкнутый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩidd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">заранее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">ouddlest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">заранее, предварительно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ouddǩiʹtte</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">застывать, коченеть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">târggast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">здесь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiʹb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">здесь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">здесь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">täʹst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">здорово</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BODY">HEALTH</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiõrvân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">зимой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tälvva</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">зимой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">täälvas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">из</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">meädda</t> <t Contlex="ADV-SPAT_" pos="Adv">ååugas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">известно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiõttlõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">изнутри</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">seʹst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">иначе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jeeʹresnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">иначе</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">muđoi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">иногда, в случае</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">måttmešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">иногда, временами</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">kuäʹss-ne</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">к северной стороне, на северную сторону</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">tââvpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">kâkkvââ</t> <t Contlex="ADV_" pos="Adv">mâʹte</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">как</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mäʹhtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">как раз, только что</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV-TEMP_" pos="Adv">eiʹdde</t> <t Contlex="ADV_" pos="Adv">âiʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">как следует, хорошо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuddnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">когда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuäʹss</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">количество</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">veeʹrd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">конечно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiõttlõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">конечно, а как же</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">pomaž</t> <t Contlex="ADV_" pos="Adv">teâđast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">конечно, возможно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuâsti</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">косо, вкось, криво</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kärŋŋad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">красиво</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">moččânji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">криво, косо, искоса</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">pelbbad</t> <t Contlex="ADV_" pos="Adv">vennad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">круглый год</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pirreeʹjj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">кто знает как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuuʹđ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">кто-угодно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">täättas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">куда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">koozz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">летом</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩeässa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">летом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩeäzzas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">лишь, только,</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jäskka</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">лучше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pueʹrben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">медленно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">meälǥžet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">медленно, тихо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">meälǥa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">меньше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">uʹccbõššân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">милосердно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">lääʹđeld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">много</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jiânnai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">много, сильно, очень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">kõrrset</t> <t Contlex="ADV_" pos="Adv">kõrrsânji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">много, сильно, очень,весьма</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čuuʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">можеты быть, возможно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">možât</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на внутренней стороне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">siiʹsǩpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на день</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">peeivas</t> <t Contlex="ADV_" pos="Adv">peeivže</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на корточках</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">cuäkkad</t> <t Contlex="ADV_" pos="Adv">njâkkad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на обеих сторонах</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kueiʹtpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на передней, лицевой стороне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ooudbeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на самом деле</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuõđi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на север, в открытое море</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tââvas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на севере, в открытое море</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tâʹvven</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на северной стороне, с северной стороны</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tââvpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на стороне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">peäʹlnn</t> <t Contlex="ADV_" pos="Adv">tuäʹrespeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на сторону</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">peälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">на улице</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ålggan</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наверно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuâsti</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">навечно, навсегда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">åʹddren</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">надвое, пополам</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuvddân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">назад</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">mââjas</t> <t Contlex="ADV_" pos="Adv">mâʹŋŋla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наизнанку</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jårggad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наконец</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mâʹŋŋmõõzzâst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">налево</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">čiʹǯspeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">налицо (об одежде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kåullad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наоборот</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">nuʹbiooʹri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наоборот, против желания</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ruâptooʹri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наобум, без разбора</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">säʹtt-tok</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">направо, вправо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">vuäʹlspeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">направо, справа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuäʹlspeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">напротив чего-либо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puõttlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">нарочно, умышленно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jääutai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">наружу</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">åålǥas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">насторону, в сторону; прочь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">tuäʹrespeälla</t> <t Contlex="ADV_" pos="Adv">čåårpeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">не крепко, свободно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luõvâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">не переднюю, лицевую стороны</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">ooudbeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">недалеко</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ââlda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">немного</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occanj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">немного</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occnja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">немного</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">simmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">немного</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">siõmmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">немного дальше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuuʹǩǩbõʹžže</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">неправильно, неверно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puästtad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">непричастный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-SPAT_" pos="Adv">vuâʹsspeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">несколько, мало</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occanj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">несколько, мало</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occnja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">несколько, мало</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">simmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">но</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ночью</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ekka</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">обильно, богато, щедро</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vââʹlljest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">обильный, чрезмерный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jiânâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">обнимаясь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">âŋŋlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">обратно, назад</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">mååusat</t> <t Contlex="ADV_" pos="Adv">väʹst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">один</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">õhttu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">однажды</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">õʹhttešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">однажды, когда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">ojo</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">около, приблизительно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">-meʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">определенным образом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">nalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">опять</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">däs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">опять</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">eʹpet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">осенью</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čâhčča</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">особо, отдельно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jeeʹrab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">от там</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tåʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">отдельно, особо, в стороне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">čorru</t> <t Contlex="ADV_" pos="Adv">čåårast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">открыто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">äävai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">открыто, открытый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">äävas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">открытое море</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">aʹppja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">относительно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miâlggâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">отсюда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiǥ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">отсюда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiʹb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">отсюда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">оттуда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">toʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">оттуда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tåʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">очень</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jiânnai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">очень</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sami</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">очень</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čuuʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">парами, попарно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">muåni-muåni</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">плохо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">hueʹneld</t> <t Contlex="ADV_" pos="Adv">hueʹnet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по этой причине</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tõndiõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-другому</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">nuʹbnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-разному</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">määŋgnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-русски</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ruõššâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-саамски</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">säämas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-своему</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jiiʹjjesnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">по-фински</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">lääddas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">под</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t pos="Adv">vuâlla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">подряд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ǩeäččlõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">подходящий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">läädna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">позавчера</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tunpeeiʹv</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">позднее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">mâʹŋŋlakast</t> <t Contlex="ADV_" pos="Adv">mâʹŋŋlubust</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">поздно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">mâʹŋŋed</t> <t Contlex="ADV_" pos="Adv">mõŋŋu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">позже, после, потом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mâʹŋŋlest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">полный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiudd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">полный до краёв (о сосуде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čåmmad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">половина и половина</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">lâkklõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">половина, на половину</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">peällõõžži</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">полумёртвый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">piäʹllsåårmas</t> <t Contlex="ADV_" pos="Adv">piäʹllsååʹrmest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">попеременно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuârvuâra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">поперёк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tuärrast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">после, вслед, за</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mââibeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">после, позже, через</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mââibeälla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">потом, затем</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">de</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">похоже, таким же образом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">seämmanalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">почему</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">määʹnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">почему</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t pos="Adv">mõõzz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">почему</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mõõzz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">почти, приблизительно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">eǥšõt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">почти, приблизительно, довольно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miâlggâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">поэтому</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tõndiõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">правильно, прямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõiʹǧǧest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">прежде всего</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõššân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">прекрасно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">fijnnsõnji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">приблизительно, около, почти</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">âlddsin</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">примерно, почти</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sõrgg</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">примерно, приблизительно, около</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">nuʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">против течения</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vueʹsttverdda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">пять раз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">viʹttešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">радостно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuärǥast</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">радостный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN"/> <sem class="SENSE"/> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miõlstes</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">рано</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ääiʹjeld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">раньше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ääiʹjab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">расширяться, распространяться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">leävvad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">редко</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">häʹrvv</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">рядом</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">paaldâst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">рядом, к, у, (куда?)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">paʹldde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">рядом; из недалека, недалеко (куда)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ââlda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">с внрутренней стороны</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">siiʹsǩpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">с двух сторон</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kueiʹtpeäʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">самый долгий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuuʹǩǩmõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сверху</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">pâʹjjen</t> <t Contlex="ADV_" pos="Adv">tunââʹlmest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сегодня</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">täʹbbe</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сейчас</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">tâʹlles</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сейчас</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">ååʹn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">семь раз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">čiččmešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">силой, насильно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâʹelviõgg</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сквозь, через</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čõõđ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сколько</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">mâʹmmet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">скоро</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sõrgg</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">скоро, быстро</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sõõrǥab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">скудно, мало</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vääʹneld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">слабо, плохо (о здоровье)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pannʼnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">слишком</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">čuuʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">слишком, чересчур</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">leeiǥas</t> <t Contlex="ADV_" pos="Adv">leigga</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сначала</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõššân</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сначала, прежде всего, еще</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuõʹste</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">снова</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">eʹpet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">снова, заново</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">oʹđđest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">со всеми пожитками</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">seerdal</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">совсем, совершенно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">aaibâs</t> <t Contlex="ADV_" pos="Adv">aivv</t> <t Contlex="ADV_" pos="Adv">obbnes</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">совсем, точно, вовсе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">eʹsǩe</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">совсем, точно, вовсе</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sami</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">спиной к</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">sieʹlji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">справа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuäʹlspeäʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сравнительно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miâlggâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сразу</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">tâʹlles</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">старатекьно, прилежно, усердно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="WORK">ECONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">viiššlânji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">стоймя, в вертикальном положении</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">ceäggad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">столько-то и столько-то</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">timåʹmmet timåʹmmet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сухими ногами</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kåʹšǩǩjuõʹlji</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сырой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">võrrcipccsest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">сюда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tiiʹǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тайно, тайком</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">peittast</t> <t Contlex="ADV_" pos="Adv">sueʹl</t> <t Contlex="ADV_" pos="Adv">sueʹleld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">так долго, как; так много, как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tâʹmmet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">так много, около</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tâʹmmer</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">так, таким образом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">nääiʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">такой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tââʹđen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">там</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">toʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">там</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tåʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">теперь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">ååʹn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">теперь, ныне, сегодня</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">tääʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тихо, медленно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">jõskk</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тихо, спокойно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">miâlǥžed</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тогда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">de</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тогда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">teʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">только</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">только</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">pâi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">только</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">pâi</t> <t Contlex="ADV_" pos="Adv">tåʹlǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">только, недавно</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">õiʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">точно, внимательно, тщательно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">tärkka</t> <t Contlex="ADV_" pos="Adv">tääʹrǩeld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">туда</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tok</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">тут</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">tääiʹben</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">удивительно, чудесно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADV_" pos="Adv">moodrainalla</t> <t Contlex="ADV_" pos="Adv">õõmâsnalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">уж</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">juʹn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">уже</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV-TEMP_" pos="Adv">juʹn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">уже, больше</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">teänab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">утром</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adv">eeʹđeld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">хорошо</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">puârast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">часто</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">CYCLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">täujja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">что-то, не, совсем не</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">voops</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуточку</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occanj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуточку</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occnja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуточку</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">simmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуточку</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">siõmmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуть-чуть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occanj</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуть-чуть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">occnja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуть-чуть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">simmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">чуть-чуть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">siõmmna</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">шесть раз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">kuʹttešt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">явно, видимо, очевидно</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">deʹbe</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">якобы, будто-бы</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">maka</t> </tg> </mg> </e>
+</r>
