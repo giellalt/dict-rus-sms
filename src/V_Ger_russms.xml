@@ -10,12 +10,12 @@
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
 
-<e> <lg> <l pos="">невиданный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">vueiʹnǩâni</t> </tg> </mg> </e>
-<e> <lg> <l pos="">невидимый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">kuâsttjeǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="">неделимый, неразделённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">juâkkjeǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="">неделимый, неразделённый, единогласный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="">некрещеный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">riistǩâni</t> </tg> </mg> </e>
-<e> <lg> <l pos="">нерожденный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">šõõddǩâni</t> </tg> </mg> </e>
-<e> <lg> <l pos="">нетайющий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">suuddǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="">ходить на лыжах</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">čuõigeeʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">невиданный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">vueiʹnǩâni</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">невидимый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">kuâsttjeǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неделимый, неразделённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">juâkkjeǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неделимый, неразделённый, единогласный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">некрещеный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">riistǩâni</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нерожденный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">šõõddǩâni</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нетайющий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">suuddǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Ger">ходя на лыжах</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">čuõigeeʹl</t> </tg> </mg> </e>
 </r>

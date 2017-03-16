@@ -27,7 +27,7 @@
 <e> <lg> <l pos="Det">оба</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">kuhttu</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">один, одна, некто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">пара, несколько</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">muäʹdd</t> </tg> </mg> </e>
-<e> <lg> <l pos="">первый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">vuõss</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">первый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">vuõss</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">полтора</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">piäʹllneʹb</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">предыдущий, прошедший</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">oouʹdbuž</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">пятый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">viiđad</t> </tg> </mg> </e>

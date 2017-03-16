@@ -9,7 +9,6 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="">nA</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Suf">-laaǥǥan</t> </tg> </mg> </e>
-<e> <lg> <l pos="">без</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Suf">-tää</t> </tg> </mg> </e>
-<e> <lg> <l pos="">цвета (чего-нибудь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Suf">-eunnsaž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">без</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Suf">-tää</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">цвета (чего-нибудь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Suf">-eunnsaž</t> </tg> </mg> </e>
 </r>

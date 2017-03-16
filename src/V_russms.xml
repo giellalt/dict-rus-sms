@@ -88,7 +88,7 @@
 <e> <lg> <l pos="V">быть голодным</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">porstõõvvâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">быть забытым</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">vääildõõvvâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">быть законченным</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">valmštõõvvâd</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">быть насторже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="">vaarõõttâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">быть насторже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="V">vaarõõttâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">быть нервным, беспокойным</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">veäʹlšted</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">быть нужным</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">POSSESSION</sem> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="V_TOBDDÂD" pos="V">õlggâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">быть ослепленным снегом</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">ävvõõvvâd</t> </tg> </mg> </e>
@@ -705,7 +705,7 @@
 <e> <lg> <l pos="V">онеметь, потерять голос</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">jiõntõõvvâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">опаздывать</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="IV_ŠORRNED" pos="V">mâŋŋned</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">опасаться</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="V_PÕÕLLÂD" pos="V">põõllâd</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">опасаться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="">vaarõõttâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">опасаться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="V">vaarõõttâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">опираться, основываться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">nuäjjõõttâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">описывать (имущество)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">åålǥasmetteed</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">опрашивать</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN"/> <sem class="LANG">SPEECH</sem> </semantics> <tg xml:lang="sms"> <t Contlex="V_SILTTEED" pos="V">kõõjjeed</t> </tg> </mg> </e>
@@ -729,7 +729,7 @@
 <e> <lg> <l pos="V">останавливаться на одном мвате (о животном)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="V_TEEVVAD" pos="V">nääđđad</t> <t Contlex="V_JÄLSTED" pos="V">näđsted</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">останавливаться, делать остановки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">årstõõllâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">остатъся без оленей</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_LAUKKÕÕLLÂD" pos="V">puäʒʒtõõvvâd</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">остерегаться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="">vaarõõttâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">остерегаться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="V">vaarõõttâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">остывать, охлаждаться</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="V_KUÄSTTAD" pos="V">čuäckkad</t> <t Contlex="V_REÄKKAD" pos="V">čuässad</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">отвечать</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="LANG">SPEECH</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="V_TEEʹMEED" pos="V">vaʹstteed</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">отвязывать, отцеплять, отделять</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_SILTTEED" pos="V">čõlggeed</t> </tg> </mg> </e>

@@ -11,9 +11,9 @@
 </lics>
 
 <e> <lg> <l pos="Pcle">не (1.л.мн.ч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jeäʹp</t> </tg> </mg> </e>
-<e> <lg> <l pos="">не (3.л.мн.ч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jiâ</t> </tg> </mg> </e>
-<e> <lg> <l pos="">не (отриц. 2.л.мн.ч.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jiõk</t> </tg> </mg> </e>
-<e> <lg> <l pos="">не (при повелительном наклонении)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jieʹl</t> </tg> </mg> </e>
-<e> <lg> <l pos="">не (ходить, идти и.т.д.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jeät</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">не (3.л.мн.ч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jiâ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">не (отриц. 2.л.мн.ч.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jiõk</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">не (при повелительном наклонении)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jieʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">не (ходить, идти и.т.д.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jeät</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">нет, не (отрицание)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V-NEG_IJ" pos="V">ij</t> </tg> </mg> </e>
 </r>

@@ -9,6 +9,7 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="">не были</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jeäʹlam</t> </tg> </mg> </e>
-<e> <lg> <l pos="">нет, не (отрицание)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="V_" pos="V">iʹlla</t> <t Contlex="V_" pos="V">iʹlle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">не были</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="V_" pos="V">jeäʹlam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">нет</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="V_" pos="V">iʹlla</t> <t Contlex="V_" pos="V">iʹlle</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">не (отрицание)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="V_" pos="V">iʹlla</t> <t Contlex="V_" pos="V">iʹlle</t> </tg> </mg> </e>
 </r>

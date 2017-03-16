@@ -9,6 +9,6 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="">и т.д.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="CC::Adv::Adv">da nuʹtt ooudâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">и т.д.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="CC::Adv::Adv">da nuʹtt ooudâs</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC::Adv::Adv">и так далее</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="xxx"/> </semantics> <tg xml:lang="sms"> <t pos="CC::Adv::Adv">da nuʹtt ooudâs</t> </tg> </mg> </e>
 </r>

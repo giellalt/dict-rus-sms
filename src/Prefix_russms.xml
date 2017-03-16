@@ -9,14 +9,16 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="">вдоль, по</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">mieʹtt-</t> </tg> </mg> </e>
-<e> <lg> <l pos="">задняя часть чего-либо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">mââi-</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">вдоль</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">mieʹtt-</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">по</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">mieʹtt-</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">задняя часть чего-либо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">mââi-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">изнанка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">jåårǥ-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">изогнутый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">puäst-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">кильдинский</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">ǩiõld-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">кислый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">kuäʹstt-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">кривой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">puäst-</t> </tg> </mg> </e>
-<e> <lg> <l pos="">кривой, искривлённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">käʹrŋŋ-</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кривой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">käʹrŋŋ-</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">искривлённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Prefix">käʹrŋŋ-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">левый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">čiʹǯǯ-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">не тот</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">puäst-</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">неправильный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="Prefix">puäst-</t> </tg> </mg> </e>

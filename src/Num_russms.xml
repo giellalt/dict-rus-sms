@@ -49,7 +49,7 @@
 <e> <lg> <l pos="Num">четверть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="NUM_LO" pos="Num">nelljmlo</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">четверть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM_LO" pos="Num">nenjmlo</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">четыре</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="NUM_" pos="Num">nellj</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">четырнадцать</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang=""> <t pos="">nelljmlo</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">четырнадцать</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang=""> <t pos="Num">nelljmlo</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">шестнадцать</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="NUM_LO" pos="Num">kutmlo</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">шесть</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="NUM_TOLL" pos="Num">kutt</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">шестьдесят</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">QUANTITY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="NUM_LO" pos="Num">kuttlo</t> </tg> </mg> </e>
