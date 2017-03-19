@@ -12,22 +12,22 @@
 
 
 <e> <lg> <l pos="Interj">Аминь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">amen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ах!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">voi!</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ой!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">voi!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">добрый день</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">SOCIAL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ах</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">voi</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">видите ли</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">vuäinak</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">voi</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">ведь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">vuäinak</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">все-таки</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">kâʹl</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">всё-таки</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">kâʹl</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">да</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">naa</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">да</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">kâʹl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">да</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Intrj">joo</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">да</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">joo</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">дай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">äʹn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">давать</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">äʹn</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">добрый день</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">SOCIAL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">добрый день!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv!</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">привет!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">добрый день</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">привет</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tiõrv</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">если</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">davai</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">как жаль!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">beâddaa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">как жаль</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">beâddaa</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">настоящий</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">tuõtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">ну</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">na</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">столь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="INTERJ_" pos="Interj">na</t> </tg> </mg> </e>
