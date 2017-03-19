@@ -55,7 +55,8 @@
 <e> <lg> <l pos="Pr">на основании</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">diõtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">ниже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">vuâlpeälˈla</t> <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">окола</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luʹnn</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">около, возле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">peällsest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">около</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">peällsest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">возле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">peällsest</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adp">от</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adp">от</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">перед</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ouddâl</t> </tg> </mg> </e>
@@ -81,7 +82,9 @@
 <e> <lg> <l pos="Adp">у</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adp">у</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">у</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luʹnn</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">у, около (где?)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">puõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">у</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">puõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">около (где?)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">puõtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">через</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PO_" pos="Po">vääras</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">через, по</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pääiʹǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">через</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pääiʹǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">по</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pääiʹǩ</t> </tg> </mg> </e>
 </r>

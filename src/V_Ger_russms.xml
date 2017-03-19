@@ -12,8 +12,11 @@
 
 <e> <lg> <l pos="A">невиданный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">vueiʹnǩâni</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">невидимый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">kuâsttjeǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">неделимый, неразделённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">juâkkjeǩânai</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">неделимый, неразделённый, единогласный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неделимый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">juâkkjeǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неразделённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">juâkkjeǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неделимый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неразделённый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">единогласный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">jueʹjjǩânai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">некрещеный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">riistǩâni</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">нерожденный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">šõõddǩâni</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">нетайющий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t pos="Ger">suuddǩânai</t> </tg> </mg> </e>

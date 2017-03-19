@@ -21,18 +21,22 @@
 <e> <lg> <l pos="CS">когда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõnt</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">когда-то</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">kojo</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">несмотря</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">håʹt</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS(Pr::Pr::Pron::CS)">несмотря на то, что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">håʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS(Pr::Pr::Pron::CS)">несмотря на то</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">håʹt</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS(Pr::Pr::Pron::CS)">что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">håʹt</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leâža</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">однажды</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">kojo</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">пока</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">poka</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">поскольку</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">потому</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõnt</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">потому что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõʹnt</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">потому, что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">потому, что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõʹnt</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">потому</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">потому</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõʹnt</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">что</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõʹnt</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">потомучто</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">потомучто</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">tõʹnt</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">так долго, как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">koon</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">так долго</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">koon</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">koon</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">так как</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">тем не менее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">kuuitâǥ</t> </tg> </mg> </e>
 <e> <lg> <l pos="CS">тогда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CS_" pos="CS">ko</t> </tg> </mg> </e>

@@ -15,7 +15,8 @@
 <e> <lg> <l pos="Det">девятый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">ååucad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">десятый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">lååǥǥad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">другой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">jeeʹres</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">другой, иной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">jeäʹrab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">другой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">jeäʹrab</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">иной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">jeäʹrab</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">каждый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">jueʹǩǩ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">какой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">måkam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">какой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">muʹvddem</t> </tg> </mg> </e>
@@ -25,28 +26,45 @@
 <e> <lg> <l pos="Det">кто-то</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">некий</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">оба</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">kuhttu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">один, одна, некто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">пара, несколько</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">muäʹdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">один</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">одна</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">некто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">måttam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">пара</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">muäʹdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">несколько</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">muäʹdd</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">первый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">vuõss</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">полтора</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">piäʹllneʹb</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">предыдущий, прошедший</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">oouʹdbuž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">предыдущий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">oouʹdbuž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">прошедший</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">oouʹdbuž</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">пятый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">viiđad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">седьмой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">čiiččad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">сотый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">čuâđad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">таковое</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">таковой, таковая, таковое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">такой, такая, такое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">такой, такая, такое, таковой, таковая</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">такой, таковой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">näkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковая</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такой</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такая</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такая</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такое</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковая</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">такой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">näkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">таковой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">näkam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">тот</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET-SHORTDEM_" pos="Det">tut</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">тот</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET-SHORTDEM_" pos="Det">tõt</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">тот (же) самый; одинаковый, равный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">seämma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">тот (же) самый</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">seämma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">одинаковый</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">seämma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">равный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_" pos="Det">seämma</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">третий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">kuälmad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">четвертый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">neelljad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">шестой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="NUM-ORD_NEELLJAD" pos="Det">kuuđad</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">этакая</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">этакий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
-<e> <lg> <l pos="Det">этакий, этакая, этакое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">этакий</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">этакая</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">этакое</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET_JÂNNAM" pos="Det">nåkkam</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">этакое</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="DET_SPÄʹSSEB" pos="Det">nuʹvddem</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">этот</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET-SHORTDE_" pos="Det">tät</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">этот</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="DET-SHORTDEM_" pos="Det">tõt</t> </tg> </mg> </e>

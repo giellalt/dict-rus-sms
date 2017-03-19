@@ -22,7 +22,8 @@
 <e> <lg> <l pos="Pcle">ли</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">-a</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">ли</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">-ǥa</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">ни</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">ni</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pcle">правда, хотя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">kâl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">правда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">kâl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">хотя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">kâl</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">так</l> <stg> <st/> </stg> </lg> <mg> <semantics> <!-- CHECKME How are particles related to emotions? --> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">nuʹtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">так (частица)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">näde</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">также</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PCLE_" pos="Pcle">še</t> </tg> </mg> </e>

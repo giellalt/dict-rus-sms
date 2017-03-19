@@ -9,17 +9,28 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="CC">а, но</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">nâga</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">а, но, да, хотя; лишь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">а, ну, но</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">да, также</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">di</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">а</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">nâga</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">nâga</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">а</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">да</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">хотя</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">лишь</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">peʹce</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">а</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">ну</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">да</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">di</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">также</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">di</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">и</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">da</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">и</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">ja</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">или</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">avi</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">или</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leʹbe</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">pâi</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">но, а, однако</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leâša</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">но</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leâša</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">а</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leâša</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">однако</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">leâša</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">однако</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">потом, затем</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">de</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">потом</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">de</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">затем</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">COGNITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="CC_" pos="CC">de</t> </tg> </mg> </e>
 </r>

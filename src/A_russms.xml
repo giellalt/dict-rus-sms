@@ -35,7 +35,8 @@
 <e> <lg> <l pos="A">бежественный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">vuâsppåådlaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">без отца</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">eeʹjjteʹm</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">без ручки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">nõõđteʹm</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">без северных оленей; с малым количеством оленей</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">puäʒʒteʹm</t> <t Contlex="A-ATTR_" pos="A">puäʒʒteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">без северных оленей</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">puäʒʒteʹm</t> <t Contlex="A-ATTR_" pos="A">puäʒʒteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">с малым количеством оленей</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">puäʒʒteʹm</t> <t Contlex="A-ATTR_" pos="A">puäʒʒteʹmes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">без шапки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">keäʹpperteʹm</t> <t Contlex="A-ATTR_" pos="A">keäʹpperteʹmes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">безбожный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">vuâsppååʹdteʹm</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">безболезненный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">čueʹʒʒteʹm</t> <t Contlex="A-ATTR_" pos="A">čueʹʒʒteʹmes</t> </tg> </mg> </e>
@@ -301,7 +302,12 @@
 <e> <lg> <l pos="A">невысокий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">vueʹllǥaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">неглубокий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SUẸʹǨǨ" pos="A">cueʹǩǩ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">неглубоко</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÅÅʹŠǨES" pos="A">kååʹšǩes</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">неграмотный, невежественный, безграмотный, неквалифицированный;неловкий, неуклюжий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неграмотный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">невежественный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">безграмотный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неквалифицированный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неловкий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неуклюжий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_MUEʹRJJ" pos="A">čueʹrbb</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">недисциплинированный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">njeʹzzlåkk</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">недоброжелательный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">ilbbâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">недозволенный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A-ATTR_" pos="A">lååʹvteʹmes</t> </tg> </mg> </e>
@@ -345,7 +351,11 @@
 <e> <lg> <l pos="A">носящий более впечатляющие рога</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">säʹrǧǧmallžab</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">носящий впечатляющие рога</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">säʹrǧǧmallaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">нынешний</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">ânnʼjõž</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">обезоруживающий, тайный, вкрадчивый, льстивый; секретный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">обезоруживающий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тайный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вкрадчивый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">льстивый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">секретный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČUEʹĐES" pos="A">sueʹles</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">облачный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">põlvvâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">обнаженный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">päälljas</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">обратный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A-ATTR_" pos="A">vuâsttlõs</t> </tg> </mg> </e>
@@ -406,7 +416,11 @@
 <e> <lg> <l pos="A">постоянный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">ǩiäʹjjteʹrn</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">правильный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SENSE">EMOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">vuõiggâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">правый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">vuõiggâdmiõllsaž</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">праздный, незанятый;негодный, непригодный; безрыбный (об озере)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">праздный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">незанятый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">негодный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">непригодный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">безрыбный (об озере)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddteʹm</t> <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">превратный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">peʹlbb</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">предмет)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">ruánn</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">предшествующий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">oouʹdab</t> </tg> </mg> </e>
@@ -432,7 +446,9 @@
 <e> <lg> <l pos="A">прохладный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_FIINÂS" pos="A">iisâs</t> <t Contlex="A_JÕÕSKÂS" pos="A">looškâs</t> <t Contlex="A_JÕÕSKÂS" pos="A">õõckâs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">прохладный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ENVIR">WEATHER</sem> <sem class="WORK">TRAVEL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="A_" pos="A">čueʹcǩes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">прочный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÅÅVAS" pos="A">nâânas</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">прочный, выносливый;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JÄUʹRR" pos="A">säuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">прочный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JÄUʹRR" pos="A">säuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">выносливый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JÄUʹRR" pos="A">säuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="A"></l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JÄUʹRR" pos="A">säuʹrr</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">прошедший</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">ouddlõž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">прошлый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JÕÕVVI" pos="A">mõõnni</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">прыткий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÅÅLVAK" pos="A">feertak</t> </tg> </mg> </e>
@@ -482,12 +498,15 @@
 <e> <lg> <l pos="A">своенравный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">väimmaš</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">своеобразный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">suâmm</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">святой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄLTTAI" pos="A">pâssai</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">святой, свяшенный, праздний</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ČÄÄʹCC" pos="A">pââʹss</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">святой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ČÄÄʹCC" pos="A">pââʹss</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">свяшенный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ČÄÄʹCC" pos="A">pââʹss</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">праздний</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ČÄÄʹCC" pos="A">pââʹss</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">себе на уме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄLTTAI" pos="A">vuäivvai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">седой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÄÄʹMES" pos="A">rääʹnes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">секретный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VEEIDAS" pos="A">kääitas</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">семилетний</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">čiččâmekksaž</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">сердитый, злой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">vâjjai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сердитый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">vâjjai</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">злой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">vâjjai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">серый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÄÄʹMES" pos="A">rääʹnes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">серьёзный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">tuõđlaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">сильный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_OOĐÂS" pos="A">raavâs</t> <t Contlex="A_" pos="A">viõhss</t> </tg> </mg> </e>
@@ -498,7 +517,10 @@
 <e> <lg> <l pos="A">скользский</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄRNNAI" pos="A">njeullai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">скорый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_" pos="A">jåʹttel</t> <t Contlex="A_VISKKÂD" pos="A">ǩirggâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">скупой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÄÄʹMES" pos="A">ääʹnes</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">скучный, неприятный, досадный; скука</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ÂʹǨǨED" pos="A">âʹǩǩed</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">скучный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ÂʹǨǨED" pos="A">âʹǩǩed</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неприятный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ÂʹǨǨED" pos="A">âʹǩǩed</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">досадный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ÂʹǨǨED" pos="A">âʹǩǩed</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">скука</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ÂʹǨǨED" pos="A">âʹǩǩed</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">слабо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">lueʹǯǯ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">слабовидящий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">čââʹlmteʹm</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">слабый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_" pos="A">hiäʹnn</t> <t Contlex="A_" pos="A">hueʹnn</t><t Contlex="A_" pos="A">läiʹvv</t> <t Contlex="A_TUÕVÂS" pos="A">njuõrâs</t><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">viõǥǥteʹm</t> <t Contlex="A-ATTR_" pos="A">viõǥǥteʹmes</t> <t Contlex="A-ATTR_" pos="A">ââʹzzteʹmes</t> </tg> </mg> </e>
@@ -511,7 +533,8 @@
 <e> <lg> <l pos="A">смешанный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A-ATTR_" pos="A">seäkklõs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">смешной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">heärvvai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">смешной</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN"/> <sem class="SENSE"/> </semantics> <tg xml:lang="sms"> <t Contlex="A_HÄÄʹSǨ" pos="A">hääʹsǩ</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">смиренный (ист., уст.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JUURD" pos="A">aail</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">смиренный (ист.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JUURD" pos="A">aail</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">уст.)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_JUURD" pos="A">aail</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">смолистый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄLTTAI" pos="A">pekkai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">смоляной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄLTTAI" pos="A">târvvai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">собирательный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">õhttsaž</t> </tg> </mg> </e>
@@ -537,7 +560,12 @@
 <e> <lg> <l pos="A">сухо??</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÅÅʹŠǨES" pos="A">kååʹšǩes</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">счастливый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_SÄʹMMLAŽ" pos="A">leklvaž</t> <t Contlex="A_" pos="A">viäʹssel</t> <t Contlex="A_SÄʹMMLAŽ" pos="A">vuäzlvaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">сырой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ǨEʹRJJ" pos="A">njeʹbll</t> <t Contlex="A_ČUÕŠKK" pos="A">njuõbrr</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">сырой; жесткий, тугой, неповоротливый, неловкий, нескладный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сырой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">жесткий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тугой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неповоротливый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">неловкий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нескладный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">тëмный</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">čappâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">табаке)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">läiʹvv</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">тайный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VEEIDAS" pos="A">kääitas</t> </tg> </mg> </e>
@@ -565,8 +593,14 @@
 <e> <lg> <l pos="A">толстый (о плоских вещах)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_PÄRRAI" pos="A">âssai</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">тонкий</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="A_PEÄʹSˈS" pos="A">seäʹǧǧ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">тонкий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_PEÄʹSˈS" pos="A">seäʹǧǧ</t> <t Contlex="A-ATTR_" pos="A">ââʹzzteʹmes</t> <t Contlex="A_" pos="A">ǩeʹʒʒ</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">тонкий, изысканный; чистый, аккуратный, пристойный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">тонковолосый; худой, водянистый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">njarbbâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тонкий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">изысканный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">чистый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аккуратный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пристойный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_FIINÂS" pos="A">fiinâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тонковолосый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">njarbbâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">худой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">njarbbâd</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">водянистый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_VISKKÂD" pos="A">njarbbâd</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">точный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÄʹLBB" pos="A">täʹrǩǩ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">трава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_ČÄÄʹCC" pos="A">rââʹšš</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">трехлетний</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">kooumekksaž</t> </tg> </mg> </e>
@@ -613,7 +647,11 @@
 <e> <lg> <l pos="A">хорошо</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">EMOTION</sem> <sem class="HUMAN">PEOPLE</sem> <sem class="FOOD">DISH</sem> </semantics> <tg xml:lang="sms"> <t Contlex="A_" pos="A">šiõǥǥ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">храбый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÅÅLVAK" pos="A">smeʹllak</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">хуже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">ääʹpptab</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">целостный, целый, весь; замкнутый, сплошной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">целостный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">целый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">весь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">замкнутый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сплошной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_KÕÕDDÂS" pos="A">oobbâs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">целый</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_" pos="A">ceâlai</t> <t Contlex="A_" pos="A">čââvas</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">цельный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">čââvas</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">церковный</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">ceerkavlaž</t> </tg> </mg> </e>
